@@ -1,0 +1,4 @@
+__pycache__/ 
+*.pyc 
+chukwuebuka_sen202_env/ 
+db.sqlite3 
